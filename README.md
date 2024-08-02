@@ -1,2 +1,2 @@
-# js
-code repo for javascript series for pratice 
+some of hitesh choudary and some of apna colleage notes 
+
